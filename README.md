@@ -15,7 +15,7 @@ For now, the test suite only works in Chrome! Please read the README below in th
       <h1>Dr. José  Rizal</h1>
       <h2 id="tribute-info">The Philippine's Hero</h2>
       <div id="img-div">
-        <img src="https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal#/media/File:Jose_rizal_01.jpg" id="image"/ alt="Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
+        <img src="https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal#/media/File:Jose_rizal_01.JPG" id="image"/ alt="Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
         <p for="image" id="image-label"><em>
         José Rizal's life is one of the most documented of 19th century Filipinos due to the vast and extensive records written by and about him.[26] Almost everything in his short life is recorded somewhere, being himself a regular diarist and prolific letter writer, much of the material having survived. His biographers, however, have faced difficulty in translating his writings because of Rizal's habit of switching from one language to another.</em></p>
       </div>
