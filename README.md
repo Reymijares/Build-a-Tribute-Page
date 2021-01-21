@@ -1,10 +1,7 @@
 # Build-a-Tribute-Page
 <html>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-
-<body id='main'>
-  
-  <link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/style.css" />
   
   <style>
   img {
@@ -16,7 +13,7 @@
 }
 </style>
 
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<body id='main'>
 
 <header>
     <section id="title">
