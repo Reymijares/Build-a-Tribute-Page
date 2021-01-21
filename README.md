@@ -15,7 +15,7 @@ For now, the test suite only works in Chrome! Please read the README below in th
       <h1>Dr. José  Rizal</h1>
       <h2 id="tribute-info">The Philippine's Hero</h2>
       <div id="img-div">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.philstar.com%2Fbusiness%2F2019%2F01%2F02%2F1881538%2Fjose-rizals-ideals-and-ideas&psig=AOvVaw1qwbAhtU9PtIaVOZZ9rxH0&ust=1611286104875000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi6zuiXrO4CFQAAAAAdAAAAABAN"/ alt="Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.philstar.com%2Fbusiness%2F2019%2F01%2F02%2F1881538%2Fjose-rizals-ideals-and-ideas&psig=AOvVaw1qwbAhtU9PtIaVOZZ9rxH0&ust=1611286104875000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi6zuiXrO4CFQAAAAAdAAAAABAN" Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
         <p for="image" id="image-label"><em>
         José Rizal's life is one of the most documented of 19th century Filipinos due to the vast and extensive records written by and about him.[26] Almost everything in his short life is recorded somewhere, being himself a regular diarist and prolific letter writer, much of the material having survived. His biographers, however, have faced difficulty in translating his writings because of Rizal's habit of switching from one language to another.</em></p>
       </div>
