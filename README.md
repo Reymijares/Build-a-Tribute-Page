@@ -1,5 +1,5 @@
 # Build-a-Tribute-Page
-
+<html>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
 <style>
@@ -62,3 +62,4 @@
     </div>
   </footer>
 </body>
+</html>
