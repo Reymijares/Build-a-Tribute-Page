@@ -1,7 +1,7 @@
 # Build-a-Tribute-Page
 <html>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<link rel="stylesheet" href= "upload.wikimedia.org/wikipedia/commons/b/b0/Jose_rizal_01.jpg/css/style.css" />
+<link rel="stylesheet" href= "css/style.css" />
   
   <style>
   img{
