@@ -1,17 +1,6 @@
 # Build-a-Tribute-Page
 <html>
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<link rel="stylesheet" href= "css/style.css" />
-  
-  <style>
-  .img{
-  display: center;
-  margin-left: 50%;
-  margin-right: 50%;
-  width: 20%;
-  height: 25%;
-  }
-  </style>
+
 
 <body id='main'>
 
