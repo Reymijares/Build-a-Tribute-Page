@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="css/style.css" />
   
   <style>
-  img {
+  #img {
   display: center;
   margin-left: 50%;
   margin-right: 50%;
