@@ -27,28 +27,26 @@ For now, the test suite only works in Chrome! Please read the README below in th
       <article id="time-line">
         <h2>Here's a time line of Dr. Jose Rizal:</h2>
         <ul id="time-line-list" class="text-content">
-          <li><time datetime="1914">1914</time> - Born in Cresco, Iowa</li>
-          <li><time datetime="1933">1933</time> - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
-          <li><time datetime="1935">1935</time> - Has to stop school and save up more money. Works in the Civilian Conservation Corps, helping starving Americans. "I saw how food changed them", he said. "All of this left scars on me."</li>
-          <li><time datetime="1937">1937</time> - Finishes university and takes a job in the US Forestry Service</li>
-          <li><time datetime="1938">1938</time> - Marries wife of 69 years Margret Gibson. Gets laid off due to budget cuts. Inspired by Elvin Charles Stakman, he returns to school study under Stakman, who teaches him about breeding pest-resistent plants.</li>
-          <li><time datetime="1941">1941</time> - Tries to enroll in the military after the Pearl Harbor attack, but is rejected. Instead, the military asked his lab to work on waterproof glue, DDT to control malaria, disenfectants, and other applied science.</li>
-          <li><time datetime="1942">1942</time> - Receives a Ph.D. in Genetics and Plant Pathology</li>
-          <li><time datetime="1944">1944</time> - Rejects a 100% salary increase from Dupont, leaves behind his pregnant wife, and flies to Mexico to head a new plant pathology program. Over the next 16 years, his team breeds 6,000 different strains of disease resistent wheat - including different varieties for each major climate on Earth.</li>
-          <li><time datetime="1945">1945</time> - Discovers a way to grown wheat twice each season, doubling wheat yields</li>
-          <li><time datetime="1953">1953</time> - crosses a short, sturdy dwarf breed of wheat with a high-yeidling American breed, creating a strain that responds well to fertalizer. It goes on to provide 95% of Mexico's wheat.</li>
-          <li><time datetime="1962">1962</time> - Visits Delhi and brings his high-yielding strains of wheat to the Indian subcontinent in time to help mitigate mass starvation due to a rapidly expanding population</li>
-          <li><time datetime="1970">1970</time> - receives the Nobel Peace Prize</li>
-          <li><time datetime="1983">1983</time> - helps seven African countries dramatically increase their maize and sorghum yields</li>
-          <li><time datetime="1984">1984</time> - becomes a distinguished professor at Texas A&M University</li>
-          <li><time datetime="2005">2005</time> - states "we will have to double the world food supply by 2050." Argues that genetically modified crops are the only way we can meet the demand, as we run out of arable land. Says that GM crops are not inherently dangerous because "we've been genetically modifying plants and animals for a long time. Long before we called it science, people were selecting the best breeds."</li>
-          <li><time datetime="2009">2009</time> - dies at the age of 95.</li>
+          <li><time datetime="1861">1861</time> - Informal education by mother</li>
+          <li><time datetime="1870">1870</time> - He received formal education in Binan for 2 years</li>
+          <li><time datetime="1872">1872</time> - Execution of GOMBURZA</li>
+          <li><time datetime="1882">1882</time> - Philosophy of letters and Medicine at UST</li>
+          <li><time datetime="1883">1883</time> - He went to Paris for vacation</li>
+          <li><time datetime="1887">1887</time> - Back to Philippines and was involved in land dispute</li>
+          <li><time datetime="1888">1888</time> - 2nd travel to europe to annotate De morga's work</li>
+          <li><time datetime="1889">1889</time> - Celebration of Universal Exposition in Paris</li>
+          <li><time datetime="1890">1890</time> - Expulsion of farmers from Hacienda de Calamba</li>
+          <li><time datetime="1891">1891</time> - Publication of El Filibusterismo in Belgium</li>
+          <li><time datetime="1892">1892</time> - Exile in Dapitan</li>
+          <li><time datetime="1896">1896</time> - Execution of Rizal in Bagumbayan</li>
+ 
         </ul> 
       </article>
       <hr/>
       <article id="tribute" class="text-content">
-        <p><em>"Borlaug's life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."</em></p>
-        <p>-- Indian Prime Minister Manmohan Singh</p>
+        <p><em>"Jose Rizal was a prolific poet, essayist, and novelist whose most famous works were his two novels, Noli Me Tángere and its sequel, El filibusterismo. These social commentaries during the Spanish colonization of the country formed the nucleus of literature that inspired peaceful reformists and armed revolutionaries alike.
+"</em></p>
+        <p>-- Jose Rizal</p>
       </article>
       <hr/>
     </div>
@@ -56,7 +54,7 @@ For now, the test suite only works in Chrome! Please read the README below in th
   
   <footer>
     <div id="footer-content">
-      <secion>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Norman_Borlaug" id="tribute-link" target="_blank">Wikipedia entry</a>.
+      <secion>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal" id="tribute-link" target="_blank">Wikipedia entry</a>.
       </section>
     </div>
   </footer>
