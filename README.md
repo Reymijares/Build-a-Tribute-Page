@@ -12,12 +12,12 @@ For now, the test suite only works in Chrome! Please read the README below in th
   
   <header>
     <section id="title">
-      <h1>Dr. Norman Borlaug</h1>
-      <h2 id="tribute-info">The man who saved a billion lives</h2>
+      <h1>Dr. José  Rizal</h1>
+      <h2 id="tribute-info">The Philippine's Hero</h2>
       <div id="img-div">
-        <img src="https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg" id="image"/ alt="Dr. Norman Borlaug training biologists in Mexico">
+        <img src="https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal#/media/File:Jose_rizal_01.jpg" id="image"/ alt="Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
         <p for="image" id="image-label"><em>
-        Dr. Norman Borlaug, second from left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</em></p>
+        José Rizal's life is one of the most documented of 19th century Filipinos due to the vast and extensive records written by and about him.[26] Almost everything in his short life is recorded somewhere, being himself a regular diarist and prolific letter writer, much of the material having survived. His biographers, however, have faced difficulty in translating his writings because of Rizal's habit of switching from one language to another.</em></p>
       </div>
     </section>
   </header>
@@ -25,7 +25,7 @@ For now, the test suite only works in Chrome! Please read the README below in th
   <main>
     <div id="main-content">
       <article id="time-line">
-        <h2>Here's a time line of Dr. Borlaug's life:</h2>
+        <h2>Here's a time line of Dr. Jose Rizal:</h2>
         <ul id="time-line-list" class="text-content">
           <li><time datetime="1914">1914</time> - Born in Cresco, Iowa</li>
           <li><time datetime="1933">1933</time> - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
