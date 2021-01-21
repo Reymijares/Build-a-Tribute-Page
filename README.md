@@ -39,8 +39,7 @@ For now, the test suite only works in Chrome! Please read the README below in th
           <li><time datetime="1891">1891</time> - Publication of El Filibusterismo in Belgium</li>
           <li><time datetime="1892">1892</time> - Exile in Dapitan</li>
           <li><time datetime="1896">1896</time> - Execution of Rizal in Bagumbayan</li>
- 
-        </ul> 
+  </ul> 
       </article>
       <hr/>
       <article id="tribute" class="text-content">
