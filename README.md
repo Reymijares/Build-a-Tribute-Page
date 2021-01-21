@@ -4,7 +4,7 @@
 
 <body id='main'>
   
-  <style>
+  <link rel="stylesheet" href="css/style.css" />
   img {
   display: center;
   margin-left: 50%;
