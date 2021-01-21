@@ -2,7 +2,9 @@
 <html>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
-<style>
+<body id='main'>
+  
+  <style>
   img {
   display: center;
   margin-left: 50%;
@@ -12,9 +14,9 @@
 }
 </style>
 
-<body id='main'>
-  
-  <header>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<header>
     <section id="title">
       <h1>Dr. José  Rizal</h1>
       <h2 id="tribute-info">The Philippine's Hero</h2>
