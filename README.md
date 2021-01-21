@@ -1,17 +1,17 @@
 # Build-a-Tribute-Page
 <html>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href= "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jose_rizal_01.jpg" /css/style.css" />
   
   <style>
-  .image{
+  img{
   display: center;
   margin-left: 50%;
   margin-right: 50%;
   width: 20%;
   height: 25%;
-}
-</style>
+  }
+  </style>
 
 <body id='main'>
 
@@ -20,7 +20,7 @@
       <h1>Dr. José  Rizal</h1>
       <h2 id="tribute-info">The Philippine's Hero</h2>
       <div id="img-div">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Jose_rizal_01.jpg" height = "25%" weight = "25%" > Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Jose_rizal_01.jpg" > Dr. José Rizal José Rizal was born in 1861 to Francisco Rizal Mercado y Alejandro and Teodora Alonso Realonda y Quintos in the town of Calamba in Laguna province.">
         <p for="image" id="image-label"><em>
         José Rizal's life is one of the most documented of 19th century Filipinos due to the vast and extensive records written by and about him.[26] Almost everything in his short life is recorded somewhere, being himself a regular diarist and prolific letter writer, much of the material having survived. His biographers, however, have faced difficulty in translating his writings because of Rizal's habit of switching from one language to another.</em></p>
       </div>
