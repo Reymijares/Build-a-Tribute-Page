@@ -5,6 +5,8 @@
 <body id='main'>
   
   <link rel="stylesheet" href="css/style.css" />
+  
+  <style>
   img {
   display: center;
   margin-left: 50%;
