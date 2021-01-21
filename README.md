@@ -4,9 +4,9 @@
 
 <style>
   img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: center;
+  margin-left: 50%;
+  margin-right: 50%;
   width: 20%;
   height: 25%;
 }
